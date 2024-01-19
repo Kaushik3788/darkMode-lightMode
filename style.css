@@ -1,0 +1,14 @@
+#btn{
+  background-color: red;
+  color: whitesmoke;
+  text-decoration: dotted;
+  cursor: pointer;
+}
+.dark{
+  background-color: white;
+  color : black;
+}
+.light{
+  background-color: black;
+  color:white;
+}
